@@ -2,5 +2,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spec3290&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🐾 My GitAnimal
-![GitAnimal](https://render.gitanimal.com/animal/Spec3290)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{spec3290}"/>
+</a>
